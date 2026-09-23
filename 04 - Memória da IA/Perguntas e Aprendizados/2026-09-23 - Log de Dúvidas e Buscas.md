@@ -11,3 +11,15 @@ tags:
 ## 📝 Registros do Dia
 - [[Configuração do Repositório Remoto e Git Sync]] - Configuração da sincronização remota autônoma com o GitHub para o Segundo Cérebro.
 - [[Integração de Buscas do Gemini no Repositório]] - Formas de vincular buscas e conversas do Gemini diretamente no repositório de memória.
+- [[Funcoes Validacao Criacao Atividades Ouvidoria]] - Funções de validação para criação de atividades na Ouvidoria.
+- [[Funcoes Normalizacao Texto Ouvidoria]] - Funções de normalização para busca de líder na aba Equipe.
+- [[Diagnostico Erro Normalizacao Interno CCA Yara Anjos]] - Causa raiz do erro de prefixos combinados.
+- [[Validacao Funcao Final normalizarExecutorParaBuscaLider]] - Validação com 9 cenários de normalização.
+- [[Funcoes Normalizacao Busca Pipedrive Ouvidoria]] - Normalização de usuário para Pipedrive.
+- [[Resumo Tecnico Geral Automacoes]] - Consolidação técnica dos 4 módulos.
+- [[Configuracao Autonomia e Execucao Direta]] - Configuração de autonomia e execução direta.
+- [[Resumo Pre Arrematacao Assignment]] - Resumo técnico das regras de rodízio automático de responsáveis no funil de Pré-Arrematação.
+
+
+
+- [[as buscas dentro do antigravity do vscode nao estao gerando]]

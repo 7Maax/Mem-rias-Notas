@@ -8,107 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4823b71e7fc32ea6",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
-            }
-          },
-          {
-            "id": "ea25241ad32f02e8",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
-            }
-          },
-          {
-            "id": "43ecb3789628a4cf",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
-            }
-          },
-          {
-            "id": "2f4278ec505889ec",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
-            }
-          },
-          {
-            "id": "33f0a7b52e7a7e24",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
-            }
-          },
-          {
-            "id": "391112e1fb94a8ca",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
-            }
-          },
-          {
-            "id": "cb53cdcaa9c7fb48",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
-            }
-          },
-          {
-            "id": "aa1c8b91bacaa1c3",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
-            }
-          },
-          {
-            "id": "5fd95a2bb568d180",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
-            }
-          },
-          {
             "id": "ea18f9d09c6f0a39",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
