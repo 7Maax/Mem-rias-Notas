@@ -21,6 +21,8 @@ tags:
 - [[Resumo Pre Arrematacao Assignment]] - Resumo técnico das regras de rodízio automático de responsáveis no funil de Pré-Arrematação.
 - [[Comparativo Pre Arrematacao vs Processo Rapido]] - Comparação técnica e arquitetural entre a automação de Pré-Arrematação e o sistema Processo Rápido.
 - [[Impacto Conexao Pre Arrematacao Processo Rapido]] - Análise dos ganhos operacionais e estratégicos da integração entre os dois fluxos.
+- [[Colunas Obrigatorias Atividades e Discord Ouvidoria]] - Levantamento de todas as colunas obrigatórias para criação de atividades no Pipedrive e disparo de mensagens no Discord.
+
 
 
 
@@ -29,4 +31,4 @@ tags:
 
 - [[compare ele com o sistema Processo Rapido para baixar proces]]
 
-- [[em sua visão conectar esse processo, ira gerar um impacto gr]]
+- [[analise a pasta appscriptwebhoocksOuvidoria e me retorne qua]]

@@ -28,3 +28,4 @@ Integrar a chegada do imóvel na **Pré-Arrematação** com o download automáti
 - Diário: [[2026-09-23 - Log de Dúvidas e Buscas]]
 - Projeto: [[Visão Geral - Webhook Appscript]]
 - Nota Relacionada: [[Comparativo Pre Arrematacao vs Processo Rapido]]
+
