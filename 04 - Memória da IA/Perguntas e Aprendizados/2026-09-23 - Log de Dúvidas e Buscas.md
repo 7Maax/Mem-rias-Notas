@@ -10,3 +10,4 @@ tags:
 
 ## 📝 Registros do Dia
 - [[Configuração do Repositório Remoto e Git Sync]] - Configuração da sincronização remota autônoma com o GitHub para o Segundo Cérebro.
+- [[Integração de Buscas do Gemini no Repositório]] - Formas de vincular buscas e conversas do Gemini diretamente no repositório de memória.
