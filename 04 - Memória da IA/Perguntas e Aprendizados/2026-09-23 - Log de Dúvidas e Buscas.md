@@ -20,9 +20,13 @@ tags:
 - [[Configuracao Autonomia e Execucao Direta]] - Configuração de autonomia e execução direta.
 - [[Resumo Pre Arrematacao Assignment]] - Resumo técnico das regras de rodízio automático de responsáveis no funil de Pré-Arrematação.
 - [[Comparativo Pre Arrematacao vs Processo Rapido]] - Comparação técnica e arquitetural entre a automação de Pré-Arrematação e o sistema Processo Rápido.
+- [[Impacto Conexao Pre Arrematacao Processo Rapido]] - Análise dos ganhos operacionais e estratégicos da integração entre os dois fluxos.
+
 
 
 
 - [[as buscas dentro do antigravity do vscode nao estao gerando]]
 
 - [[compare ele com o sistema Processo Rapido para baixar proces]]
+
+- [[em sua visão conectar esse processo, ira gerar um impacto gr]]
