@@ -11,10 +11,10 @@
             "id": "ea18f9d09c6f0a39",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "3d_graph_view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "lucide-file",
+              "title": "3D-Graph"
             }
           }
         ]
@@ -188,6 +188,8 @@
   },
   "active": "ea18f9d09c6f0a39",
   "lastOpenFiles": [
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Comparativo Pre Arrematacao vs Processo Rapido.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/as buscas dentro do antigravity do vscode nao estao gerando.md",
     "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Como configurar o estilo de Esfera Cósmica 3D no Obsidian.md",
     "04 - Memória da IA/Sessões de Aprendizado/2026-09-16 - Setup Obsidian e VS Code.md",
     "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Customização Visual do Grafo- Cores Neon e Efeitos de Luzes (Glow).md",
@@ -216,8 +218,6 @@
     "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Alternância de Conta do Gemini com Sucesso.md",
     "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Autenticação Concluída com Sucesso no Antigravity.md",
     "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais",
-    "04 - Memória da IA/Perguntas e Aprendizados/2026-09-16 - Log de Dúvidas e Buscas.md",
-    "00 - Inbox/Gemini.md",
     "01 - Projetos/Webhook Smart Leilões",
     "04 - Memória da IA/Perguntas e Aprendizados",
     "04 - Memória da IA/Sessões de Aprendizado",

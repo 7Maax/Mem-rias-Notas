@@ -19,7 +19,10 @@ tags:
 - [[Resumo Tecnico Geral Automacoes]] - Consolidação técnica dos 4 módulos.
 - [[Configuracao Autonomia e Execucao Direta]] - Configuração de autonomia e execução direta.
 - [[Resumo Pre Arrematacao Assignment]] - Resumo técnico das regras de rodízio automático de responsáveis no funil de Pré-Arrematação.
+- [[Comparativo Pre Arrematacao vs Processo Rapido]] - Comparação técnica e arquitetural entre a automação de Pré-Arrematação e o sistema Processo Rápido.
 
 
 
 - [[as buscas dentro do antigravity do vscode nao estao gerando]]
+
+- [[compare ele com o sistema Processo Rapido para baixar proces]]
