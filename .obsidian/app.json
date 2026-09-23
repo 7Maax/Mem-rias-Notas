@@ -1,0 +1,9 @@
+{
+  "baseTheme": "dark",
+  "newFileFolderPath": "00 - Inbox",
+  "attachmentFolderPath": "03 - Recursos/Anexos",
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "livePreview": true
+}

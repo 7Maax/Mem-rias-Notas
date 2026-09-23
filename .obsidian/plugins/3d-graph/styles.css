@@ -1,0 +1,98 @@
+/* ==========================================================================
+   🌌 3D GRAPH COSMIC ENGINE - ESTILO ESTELAR ULTRA CAPRICHADO
+   ========================================================================== */
+
+.graph-3d-view {
+	padding: 0 !important;
+	position: relative;
+	overflow: hidden !important;
+	background: #000000 !important;
+	background-color: #000000 !important;
+}
+
+/* Fundo espacial com profundidade estelar */
+.graph-3d-view canvas {
+	filter: brightness(1.35) contrast(1.2) !important;
+}
+
+/* Rótulos HUD Sci-Fi holográficos */
+.graph-3d-view .node-label {
+	display: block !important;
+	font-family: 'JetBrains Mono', 'Fira Code', monospace !important;
+	font-size: 11px !important;
+	font-weight: 600 !important;
+	color: #ffffff !important;
+	text-shadow: 0 0 6px #d946ef, 0 0 14px #a855f7 !important;
+	letter-spacing: 0.8px !important;
+	background: rgba(10, 4, 22, 0.85) !important;
+	border-bottom: 2px solid #d946ef !important;
+	border-left: 2px solid #d946ef !important;
+	border-radius: 0 4px 4px 0 !important;
+	padding: 3px 8px !important;
+	backdrop-filter: blur(8px) !important;
+	box-shadow: 0 4px 20px rgba(0, 0, 0, 0.8), 0 0 10px rgba(217, 70, 239, 0.4) !important;
+}
+
+/* Painel de Controles com Estilo Glassmorphism Cyberpunk */
+.graph-3d-view .graph-controls {
+	background-color: rgba(10, 4, 22, 0.92) !important;
+	backdrop-filter: blur(20px) !important;
+	border: 1px solid rgba(217, 70, 239, 0.35) !important;
+	border-radius: 12px !important;
+	box-shadow: 0 10px 35px rgba(0, 0, 0, 0.85), 0 0 18px rgba(168, 85, 247, 0.25) !important;
+	color: #f3e8ff !important;
+}
+
+.graph-3d-view .graph-controls .tree-item-self:hover {
+	background-color: rgba(217, 70, 239, 0.2) !important;
+	color: #f472b6 !important;
+}
+
+.graph-3d-view .tree-item.is-collapsed > .tree-item-children {
+	display: none;
+	visibility: hidden;
+}
+
+.graph-3d-view .graph-controls.is-collapsed > .graph-control-section {
+	display: none;
+	visibility: hidden;
+}
+
+.graph-3d-view .graph-controls:hover > .control-buttons {
+	opacity: 0.9;
+}
+
+.graph-3d-view .graph-controls > .control-buttons:hover {
+	opacity: 1;
+}
+
+.graph-3d-view .graph-controls > .control-buttons {
+	float: right;
+	margin-right: 0;
+	opacity: 0.5;
+}
+
+.graph-3d-view .hidden {
+	display: none;
+	visibility: hidden;
+}
+
+.graph-3d-view .control-buttons {
+	display: block;
+}
+
+.graph-3d-view .control-buttons > * {
+	display: inline-block;
+	margin: 0;
+}
+
+.graph-3d-view .graph-settings-view > .clickable-icon {
+	position: absolute;
+	top: 8px;
+	right: 8px;
+}
+
+.graph-3d-view .scene-nav-info {
+	display: none;
+	visibility: hidden;
+}

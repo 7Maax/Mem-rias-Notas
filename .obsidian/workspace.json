@@ -1,0 +1,320 @@
+{
+  "main": {
+    "id": "720eabc7650d90d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "682cf03c0048cde7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4823b71e7fc32ea6",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "3d_graph_view"
+            }
+          },
+          {
+            "id": "ea25241ad32f02e8",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "3d_graph_view"
+            }
+          },
+          {
+            "id": "43ecb3789628a4cf",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "3d_graph_view"
+            }
+          },
+          {
+            "id": "2f4278ec505889ec",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "3d_graph_view"
+            }
+          },
+          {
+            "id": "33f0a7b52e7a7e24",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "3d_graph_view"
+            }
+          },
+          {
+            "id": "391112e1fb94a8ca",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "3d_graph_view"
+            }
+          },
+          {
+            "id": "cb53cdcaa9c7fb48",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "3d_graph_view"
+            }
+          },
+          {
+            "id": "aa1c8b91bacaa1c3",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "3d_graph_view"
+            }
+          },
+          {
+            "id": "5fd95a2bb568d180",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "3d_graph_view"
+            }
+          },
+          {
+            "id": "ea18f9d09c6f0a39",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "3d_graph_view"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eded398ae8f5efd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2297fded192a96e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "209582ece865756c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "19aebf1b3e7034f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ia",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "5bac8130a15ec572",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0d57db979ca70309",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e766a50ca90556e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3760d0e548254f3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bem-vindo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "c08f2e8295df4472",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bem-vindo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "1efebc6fa4036862",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d992e27b06c2deac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "6d106dfe57ce357d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bem-vindo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+  "active": "ea18f9d09c6f0a39",
+  "lastOpenFiles": [
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Como configurar o estilo de Esfera Cósmica 3D no Obsidian.md",
+    "04 - Memória da IA/Sessões de Aprendizado/2026-09-16 - Setup Obsidian e VS Code.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Customização Visual do Grafo- Cores Neon e Efeitos de Luzes (Glow).md",
+    "Sem título.canvas",
+    "00 - Inbox/Sem título 1.base",
+    "00 - Inbox/Sem título.base",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Configuração do Grafo Cósmico Galáctico (Estilo Asimov - Fundação).md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Conexão Ativa para Salvamento Contínuo de Perguntas e Buscas.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Versao Mais Atualizada Gmail Validacoes.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Configuração do Visual Esfera de Estrelas 3D no Obsidian.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Como limpar o filtro de busca no grafo do Obsidian.md",
+    "01 - Projetos/Webhook Smart Leilões/Visão Geral - Webhook Appscript.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Diagnóstico- Falha de Memória em Outros Repositórios Git e Solução com Plugin Global.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Por que as buscas não estavam gerando bolinhas no grafo.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Solução- Erro de WebSocket ao Alternar Conta no Antigravity.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Opções Avançadas de Estilização e Efeitos no Gráfico do Obsidian.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Localização do Proxy no Projeto Webhook Appscript.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Integração do App Mobile do Gemini com o Obsidian (Segundo Cérebro Móvel).md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Integração Global com Gemini.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Integração Definitiva da Extensão Antigravity no VS Code.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Diagnóstico- Por que pesquisas no site web do Gemini não caem automaticamente no Obsidian-.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Confirmação e Validação do Fluxo de Aprendizado em Tempo Real.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Configuração e Vinculação do Obsidian com o VS Code.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Como Visualizar o Segundo Cérebro (Graph View e Estrutura).md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Como Integrar Múltiplas Contas do Gemini ao Mesmo Obsidian.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Alternância de Conta do Gemini com Sucesso.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Autenticação Concluída com Sucesso no Antigravity.md",
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais",
+    "04 - Memória da IA/Perguntas e Aprendizados/2026-09-16 - Log de Dúvidas e Buscas.md",
+    "00 - Inbox/Gemini.md",
+    "01 - Projetos/Webhook Smart Leilões",
+    "04 - Memória da IA/Perguntas e Aprendizados",
+    "04 - Memória da IA/Sessões de Aprendizado",
+    "04 - Memória da IA/Padrões e Convenções",
+    "04 - Memória da IA/Erros e Soluções",
+    "04 - Memória da IA/Decisões de Arquitetura",
+    "04 - Memória da IA"
+  ]
+}

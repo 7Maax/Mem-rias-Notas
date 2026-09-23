@@ -1,0 +1,100 @@
+/* ==========================================================================
+   🌌 COSMIC GALAXY GRAPH THEME - MAPA ESTELAR MONOCROMÁTICO (ASIMOV)
+   ========================================================================== */
+
+/* 1. VARIÁVEIS NATIVAS DO GRAFO DO OBSIDIAN (ELIMINA O ARCO-ÍRIS E CRIA O VISUAL GALÁCTICO) */
+body, .theme-dark {
+    /* Cor de todas as estrelas / bolinhas */
+    --graph-node: #f3e8ff !important;
+    --graph-node-unresolved: rgba(216, 180, 254, 0.35) !important;
+    --graph-node-focused: #ffffff !important;
+    --graph-node-tag: #d8b4fe !important;
+    --graph-node-attachment: #c084fc !important;
+
+    /* Cor das linhas / feixes estelares translúcidos */
+    --graph-line: rgba(192, 132, 252, 0.25) !important;
+    --graph-line-focused: rgba(255, 255, 255, 0.8) !important;
+
+    /* Fundo Preto Profundo */
+    --background-primary: #000000 !important;
+    --background-primary-alt: #000000 !important;
+}
+
+/* 2. FUNDO PRETO ABSOLUTO */
+.graph-view-container,
+.graph-3d-view,
+.workspace-leaf-content[data-type="graph"],
+.workspace-leaf-content[data-type="3d-graph"],
+.workspace-leaf-content[data-type="localgraph"] {
+    background: #000000 !important;
+    background-color: #000000 !important;
+}
+
+/* 3. NEBULOSA SUAVE DE LUZ NO CENTRO DO GRAFO */
+.workspace-leaf-content[data-type="graph"] .graph-view-container::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    background: radial-gradient(
+        circle, 
+        rgba(192, 132, 252, 0.12) 0%, 
+        rgba(147, 51, 234, 0.06) 40%, 
+        transparent 75%
+    );
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* 4. BRILHO NAS ESTRELAS E FILAMENTOS */
+.workspace-leaf-content[data-type="graph"] canvas,
+.graph-view-container canvas {
+    position: relative;
+    z-index: 1;
+    filter: brightness(1.4) contrast(1.2) !important;
+}
+
+/* 5. OCULTAR NOMES POR PADRÃO (VISÍVEL APENAS AO PASSAR O MOUSE) */
+.graph-view-container .graph-label,
+.graph-view-container .node-label,
+.graph-3d-view .node-label {
+    opacity: 0 !important;
+    visibility: hidden !important;
+    transition: opacity 0.2s ease, visibility 0.2s ease !important;
+    font-family: 'JetBrains Mono', 'Fira Code', monospace !important;
+    font-size: 11px !important;
+    font-weight: 600 !important;
+    color: #ffffff !important;
+    text-shadow: 0 0 8px #c084fc, 0 0 16px #9333ea !important;
+    letter-spacing: 0.6px;
+    padding: 3px 8px;
+    border-bottom: 2px solid #c084fc;
+    background: rgba(10, 4, 20, 0.9) !important;
+    backdrop-filter: blur(8px);
+    border-radius: 4px;
+    pointer-events: auto !important;
+    z-index: 10 !important;
+}
+
+.graph-view-container .graph-label:hover,
+.graph-view-container .node-label:hover,
+.graph-view-container .is-hovered .graph-label,
+.graph-view-container .is-hovered .node-label,
+.graph-3d-view .node-label:hover {
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+/* 6. PAINEL DE CONTROLE */
+.graph-controls {
+    background-color: rgba(10, 4, 20, 0.92) !important;
+    backdrop-filter: blur(20px) !important;
+    border: 1px solid rgba(192, 132, 252, 0.3) !important;
+    border-radius: 12px !important;
+    color: #f3e8ff !important;
+    z-index: 10 !important;
+}
