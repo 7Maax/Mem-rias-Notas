@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "682cf03c0048cde7",
+        "id": "383513919d748182",
         "type": "tabs",
         "children": [
           {
-            "id": "ea18f9d09c6f0a39",
+            "id": "3d8c2fc7dadc24de",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -186,8 +186,9 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "ea18f9d09c6f0a39",
+  "active": "3d8c2fc7dadc24de",
   "lastOpenFiles": [
+    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Configuracao Autonomia e Execucao Direta.md",
     "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/analise a pasta appscriptwebhoocksOuvidoria e me retorne qua.md",
     "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Colunas Obrigatorias Atividades e Discord Ouvidoria.md",
     "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/em sua visão conectar esse processo, ira gerar um impacto gr.md",
@@ -216,7 +217,6 @@
     "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Integração Global com Gemini.md",
     "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Integração Definitiva da Extensão Antigravity no VS Code.md",
     "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Diagnóstico- Por que pesquisas no site web do Gemini não caem automaticamente no Obsidian-.md",
-    "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais/Confirmação e Validação do Fluxo de Aprendizado em Tempo Real.md",
     "04 - Memória da IA/Perguntas e Aprendizados/Buscas Individuais",
     "01 - Projetos/Webhook Smart Leilões",
     "04 - Memória da IA/Perguntas e Aprendizados",
