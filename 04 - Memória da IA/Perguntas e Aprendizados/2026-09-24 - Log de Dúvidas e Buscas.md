@@ -5,6 +5,10 @@
 - Commit `a8e5ad0` no repositório `webhook-smartleiloesimobiliaria-appscript` (`tag-especialistas`): Inclusão da automação `appscript/webhoocks/Imoveis-Especialistas/esp.js`.
 - Abertura do Pull Request #25 (`tag-especialistas` -> `dev`) no repositório `webhook-smartleiloesimobiliaria-appscript`.
 - [[Analise Compatibilidade esp.js Webhook Davi]] - Avaliação confirmando que o arquivo `esp.js` cumpre 100% dos contratos e está pronto para o ecossistema de Webhooks.
+- [[Catalogo Automacoes Webhoocks Appscript]] - Resumo estruturado das 12 automações presentes na pasta `appscript/webhoocks`.
+
 
 
 - [[analise o appscriptwebhoocksImoveis-Especialistasesp.js e ve]]
+
+- [[faça um breve resumo de cada projeto dentro de appscriptwebh]]

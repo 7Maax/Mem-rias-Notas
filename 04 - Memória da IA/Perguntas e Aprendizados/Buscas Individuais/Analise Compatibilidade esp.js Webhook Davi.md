@@ -32,3 +32,4 @@ A estrutura do `esp.js` está **100% compatível e pronta para interagir com o W
 - Diário: [[2026-09-24 - Log de Dúvidas e Buscas]]
 - Projeto: [[Visão Geral - Webhook Appscript]]
 - Notas Relacionadas: [[Relacionamento esp.js com Webhook]]
+
