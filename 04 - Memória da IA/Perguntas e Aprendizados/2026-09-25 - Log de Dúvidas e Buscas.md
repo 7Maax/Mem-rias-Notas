@@ -9,5 +9,6 @@
 
 - [[Preenchimento Coluna Q Status Ouvidoria]] - Confirmação de que a Coluna Q não é preenchida por automações.
 - [[Verificação de Funil em validação-vef-F]] - Análise da ausência de filtros de funil (`pipeline_id`) ou etapas para realizar alterações no Pipedrive.
+- [[Comportamento Múltiplos Imóveis Mesmo Código validação-vef-F]] - Análise do comportamento do script ao encontrar mais de um imóvel com o mesmo código (estratégia first-match).
 
 - [[appscriptwebhoocksGmail - Validaçõesvalidação-vef-F existe a]]
