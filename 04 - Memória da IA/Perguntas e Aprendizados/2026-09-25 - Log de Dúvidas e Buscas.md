@@ -12,3 +12,5 @@
 - [[Comportamento Múltiplos Imóveis Mesmo Código validação-vef-F]] - Análise do comportamento do script ao encontrar mais de um imóvel com o mesmo código (estratégia first-match).
 
 - [[appscriptwebhoocksGmail - Validaçõesvalidação-vef-F existe a]]
+
+- [[o que acontece quando acha mais de um imovel com o msm codig]]
