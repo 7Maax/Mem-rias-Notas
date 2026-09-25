@@ -9,5 +9,4 @@
 - [[Escopo de Funil na Busca em validação-vef-F]] - Confirmação de que a busca no Pipedrive é global e não restringe nenhum funil.
 - [[Commit validação-vef-F em correções-script-max]] - Registro do commit do arquivo validação-vef-F na branch correções-script-max.
 - [[Abertura PR 26 correções-script-max]] - Registro da abertura do Pull Request #26 (correções-script-max -> dev).
-
-- [[agr abra um pr para a dev]]
+- [[Visão Geral Financeiro-terceiros]] - Resumo das funcionalidades do projeto de controle e pagamento de parceiros terceirizados.
