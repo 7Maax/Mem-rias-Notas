@@ -10,3 +10,5 @@
 - [[Commit validação-vef-F em correções-script-max]] - Registro do commit do arquivo validação-vef-F na branch correções-script-max.
 - [[Abertura PR 26 correções-script-max]] - Registro da abertura do Pull Request #26 (correções-script-max -> dev).
 - [[Visão Geral Financeiro-terceiros]] - Resumo das funcionalidades do projeto de controle e pagamento de parceiros terceirizados.
+
+- [[me de umresumo doque esse projeto faz appscriptwebhoocksFina]]
