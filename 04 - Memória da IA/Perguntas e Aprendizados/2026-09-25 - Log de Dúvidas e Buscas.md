@@ -6,5 +6,3 @@
 
 
 - [[analiose appscriptwebhoocksOuvidoria , existe alguma regra p]]
-
-- [[mas nesse caso o status é lido como]]
