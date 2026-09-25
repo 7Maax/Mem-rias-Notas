@@ -7,5 +7,4 @@
 - [[Verificação de Funil em validação-vef-F]] - Análise da ausência de filtros de funil (`pipeline_id`) ou etapas para realizar alterações no Pipedrive.
 - [[Comportamento Múltiplos Imóveis Mesmo Código validação-vef-F]] - Análise do comportamento do script ao encontrar mais de um imóvel com o mesmo código (estratégia first-match).
 - [[Escopo de Funil na Busca em validação-vef-F]] - Confirmação de que a busca no Pipedrive é global e não restringe nenhum funil.
-
-- [[e ele pega de algum funil especifico]]
+- [[Commit validação-vef-F em correções-script-max]] - Registro do commit do arquivo validação-vef-F na branch correções-script-max.
