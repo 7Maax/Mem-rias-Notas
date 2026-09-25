@@ -9,3 +9,5 @@
 
 - [[Preenchimento Coluna Q Status Ouvidoria]] - Confirmação de que a Coluna Q não é preenchida por automações.
 - [[Verificação de Funil em validação-vef-F]] - Análise da ausência de filtros de funil (`pipeline_id`) ou etapas para realizar alterações no Pipedrive.
+
+- [[appscriptwebhoocksGmail - Validaçõesvalidação-vef-F existe a]]
