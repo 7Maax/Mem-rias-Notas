@@ -12,3 +12,5 @@
 - [[Visão Geral Financeiro-terceiros]] - Resumo das funcionalidades do projeto de controle e pagamento de parceiros terceirizados.
 - [[Fluxo e Conexões Financeiro-terceiros]] - Análise do fluxo integrado e conexões entre Planilha-Pagamento, Pagamento-Parceiro e Notif-Executores-Pendentes.
 - [[Uso Atual do Webhook em Financeiro-terceiros]] - Detalhamento do que o webhook processa em tempo real vs o que roda por gatilhos de tempo.
+
+- [[qual o uso do webhook atualmente]]
